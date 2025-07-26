@@ -1,0 +1,5 @@
+mysql-connector-python==8.2.0
+matplotlib==3.7.2
+tkcalendar==1.6.1
+numpy<2.0.0
+pandas>=1.5.0
